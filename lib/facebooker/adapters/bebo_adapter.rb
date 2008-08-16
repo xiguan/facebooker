@@ -1,3 +1,5 @@
+require 'facebooker/adapters/adapter_base'
+
 module Facebooker
   class BeboAdapter < AdapterBase
       
